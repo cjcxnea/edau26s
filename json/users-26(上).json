@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "No.": "1",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "张三",
+      "idCard": "410115200020130025",
+      "schoolName": "北京大学",
+      "reportNum": "251121028000922",
+      "examNum": "20260101",
+      "totalScore": "450",
+      "listening": "150",
+      "reading": "150",
+      "writing": "150",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
+    },
+    {
+      "No.": "2",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "郑宇菲",
+      "idCard": "420283200512103722",
+      "schoolName": "泉州师范学院",
+      "reportNum": "252235502001077",
+      "examNum": "355020261203603",
+      "totalScore": "552",
+      "listening": "188",
+      "reading": "202",
+      "writing": "162",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
+    }
+  ]
+}
