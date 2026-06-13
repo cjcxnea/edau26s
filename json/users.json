@@ -59,6 +59,21 @@
       "writing": "101",
       "speakingExamNum": "--",
       "speakingScore": "--"
+    },
+    {
+      "id": "261005",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "何家逸",
+      "idCard": "330502200511180021",
+      "schoolName": "西安文理学院",
+      "reportNum": "0",
+      "examNum": "610211261206203",
+      "totalScore": "413",
+      "listening": "136",
+      "reading": "162",
+      "writing": "115",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
     }
   ]
 }
