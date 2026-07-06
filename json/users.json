@@ -284,6 +284,21 @@
       "writing": "127",
       "speakingExamNum": "--",
       "speakingScore": "--"
+    },
+    {
+      "id": "2610020",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "孔文婷",
+      "idCard": "370602200511120665",
+      "schoolName": "上海师范大学",
+      "reportNum": "251111076001928",
+      "examNum": "310661861204505",
+      "totalScore": "431",
+      "listening": "114",
+      "reading": "168",
+      "writing": "149",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
     }
   ]
 }
