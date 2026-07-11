@@ -314,6 +314,21 @@
       "writing": "1147",
       "speakingExamNum": "--",
       "speakingScore": "--"
+    },
+    {
+      "id": "261022",
+      "testSub": "全国大学英语四级考试(CET4)",
+      "uname": "张晓倩",
+      "idCard": "450402200411115327",
+      "schoolName": "天津商业大学",
+      "reportNum": "252252009000435",
+      "examNum": "120371252106031",
+      "totalScore": "546",
+      "listening": "167",
+      "reading": "219",
+      "writing": "160",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
     }
   ]
 }
