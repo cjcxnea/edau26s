@@ -404,6 +404,21 @@
       "writing": "102",
       "speakingExamNum": "--",
       "speakingScore": "--"
+    },
+    {
+      "id": "261028",
+      "testSub": "全国大学英语四级考试(CET4)",
+      "uname": "董俊辰",
+      "idCard": "650402200511128529",
+      "schoolName": "成都医学院",
+      "reportNum": "261141030002017",
+      "examNum": "510151261106807",
+      "totalScore": "486",
+      "listening": "156",
+      "reading": "179",
+      "writing": "151",
+      "speakingExamNum": "--",
+      "speakingScore": "--"
     }
   ]
 }
